@@ -4,4 +4,5 @@ def Sumar(n1:int,n2:int) -> int:
 
 a = Sumar(1,2)
 print(a)
+print("Cualquier cosa maximo")
     
